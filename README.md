@@ -22,5 +22,6 @@ source .venv/bin/activate
 
 Install dependencies: 
 pip install scapy
+
 Run the app: 
 python dns_tool.py
